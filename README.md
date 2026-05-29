@@ -15,15 +15,13 @@
 ![demo](./demo.gif)
  
 <br/>
-[![Node](https://img.shields.io/badge/Node-20_LTS-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![React](https://img.shields.io/badge/React-18-61dafb?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![Vite](https://img.shields.io/badge/Vite-5-646cff?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
-[![Express](https://img.shields.io/badge/Express-4-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
-[![Claude](https://img.shields.io/badge/claude--3--5--sonnet-Anthropic-d97706?style=flat-square)](https://anthropic.com)
-[![Tests](https://img.shields.io/badge/Vitest-18_passing-4ade80?style=flat-square)](https://vitest.dev)
-[![Docker](https://img.shields.io/badge/Docker-alpine_non--root-2496ed?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
-[![License](https://img.shields.io/badge/License-MIT-ff4d6d?style=flat-square)](LICENSE)
-[![JS](https://img.shields.io/badge/JavaScript-90.9%25-f1e05a?style=flat-square&logo=javascript&logoColor=black)](https://github.com/sat1828/ReviseIQ)
+
+![Node](https://img.shields.io/badge/Node-20_LTS-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61dafb?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-5-646cff?style=flat-square&logo=vite&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic-claude--3--5--sonnet-d4a5f5?style=flat-square)
+![Tests](https://img.shields.io/badge/Vitest-18_passing-86efac?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-ff4d6d?style=flat-square)
  
 <br/>
 </div>
